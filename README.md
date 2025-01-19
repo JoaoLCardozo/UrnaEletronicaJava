@@ -8,11 +8,6 @@ Uma simulação de urna eletrônica simplificada desenvolvida em Java. Este proj
 - Contagem de votos e apuração do vencedor.
 - Identificação de empates entre os candidatos.
 
-## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implantação)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
@@ -61,7 +56,7 @@ Ferramentas utilizadas no projeto:
 * [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) - Extensões para suporte ao desenvolvimento em Java no VS Code.
 
 ## ✒️ Autores
-* **João Luiz Ferreira Cardozo** - *Desenvolvedor* - [git](https://github.com/JoaoLCardozo)
+* **João Luiz Ferreira Cardozo** - *Desenvolvedor* - [Github](https://github.com/JoaoLCardozo)
 
 ## 📄 Licença
 
